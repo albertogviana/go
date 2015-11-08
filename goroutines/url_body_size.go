@@ -12,10 +12,6 @@ var urls  = []string {
 	"http://www.yahoo.com",
 	"http://github.com",
 	"http://bitbucket.org",
-	"http://www.commerzbank.de",
-	"http://www.itau.com.br",
-	"http://www.uol.com.br",
-	"http://g1.com.br",
 }
 
 func main() {
